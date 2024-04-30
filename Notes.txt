@@ -1,0 +1,29 @@
+
+
+/routing/...
+
+Declarative routing:
+- define routes:
+    /page1
+    /page2
+
+Nested Routing:
+- /oneRoute
+    /anoteher
+
+Dynamic routing:
+- /route/RoutingVariable
+
+Programatic Navigation
+- onclick navigate("/blogs")
+
+Code splitting and lazy loading
+home.jsx page -> /
+about.jsx -> /page1...
+
+// App will be a github repo storer.
+
+
+
+
+
